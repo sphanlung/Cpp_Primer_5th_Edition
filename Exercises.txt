@@ -24,3 +24,40 @@ Exercise 1.10: In addition to the ++ operator that adds 1 to its operand, there 
 
 Exercise 1.11: Write a program that prompts the user for two integers.
 Print each number in the range specified by those two integers.
+
+Exercises Section 1.4.2
+
+Exercise 1.13: Rewrite the exercises from § 1.4.1 (p. 13) using for loops.
+
+Exercises Section 1.4.4
+
+Exercise 1.18: Compile and run the program from this section giving it only
+equal values as input. Run it again giving it values in which no number is
+repeated.
+
+Exercise 1.19: Revise the program you wrote for the exercises in § 1.4.1 (p.
+13) that printed a range of numbers so that it handles input in which the first number is smaller than the second.
+
+Exercises Section 1.5.1
+
+Exercise 1.20: http://www.informit.com/title/032174113 contains a copy of
+Sales_item.h in the Chapter 1 code directory. Copy that file to your
+working directory. Use it to write a program that reads a set of book sales
+transactions, writing each transaction to the standard output.
+
+Exercise 1.21: Write a program that reads two Sales_item objects that
+have the same ISBN and produces their sum.
+
+Exercise 1.22: Write a program that reads several transactions for the same
+ISBN. Write the sum of all the transactions that were read.
+
+Exercises Section 1.5.2
+
+Exercise 1.23: Write a program that reads several transactions and counts
+how many transactions occur for each ISBN.
+
+Exercises Section 1.6
+
+Exercise 1.25: Using the Sales_item.h header from the Web site,
+compile and execute the bookstore program presented in this section.
+
